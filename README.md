@@ -1,4 +1,4 @@
-# Project A2: EKF-SLAM
+# EEC 174AY Project A2: EKF-SLAM
 
 Due Date: November 18, 2022
 
